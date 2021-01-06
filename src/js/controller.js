@@ -141,6 +141,6 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('hello')
+  console.log('The app is live and is about to build again')
 }
 init();
